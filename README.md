@@ -1,4 +1,5 @@
-# Rushikesh Mahesh Jadhav
+# Rushikesh Mahesh Jadhav 
+https://rushiijadhav23.github.io/Rushikesh-Resume/
 
 A modern, structured HTML resume showcasing professional experience, education, skills, and achievements.
 
@@ -72,6 +73,8 @@ To update this resume:
 3. Refresh your browser to see changes
 4. Consider adding CSS styling for enhanced formatting if desired
 
+## Screenshot
+<img width="850" height="1087" alt="Screenshot 2026-01-30 at 19 19 47" src="https://github.com/user-attachments/assets/3594be93-e939-4187-871a-66c4a57973d1" />
 ---
 
 **Last Updated**: January 2026  
