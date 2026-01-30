@@ -1,5 +1,6 @@
-# Rushikesh Mahesh Jadhav 
-https://rushiijadhav23.github.io/Rushikesh-Resume/
+# Rushikesh Mahesh Jadhav
+
+<https://rushiijadhav23.github.io/Rushikesh-Resume/>
 
 A modern, structured HTML resume showcasing professional experience, education, skills, and achievements.
 
@@ -10,7 +11,7 @@ This is a personal resume for **Rushikesh Mahesh Jadhav**, a Computer Engineerin
 - **Education**: Bachelor of Engineering in Computer Engineering from Terna Engineering College
 - **Skills**: Full-stack development, ML/AI, Cloud technologies, and DevOps
 - **Experience**: SDE Internship at Fynd (Aug 2025 – Jan 2026)
-- **Projects**: Notable projects including AIQuest, Vilokana, and Pravaah
+- **Projects**: Decent projects build during the engineering tenure
 - **Achievements**: Multiple hackathon placements and recognitions
 
 ## Contents
@@ -29,34 +30,39 @@ The resume includes the following sections:
 
 ## How to View
 
-1. Open `resume.html` in any web browser
+1. Open `index.html` in any web browser or click on this link to view the resume: <https://rushiijadhav23.github.io/Rushikesh-Resume/>
 2. The resume is styled with basic HTML and will display in a clean, readable format
 3. All links (GitHub, LinkedIn, Email, etc.) are clickable and will open in new tabs
 
 ## Quick Links
 
-- **GitHub**: https://github.com/rushiijadhav23
-- **LinkedIn**: https://www.linkedin.com/in/rushiijadhav23/
-- **Email**: rushijadhav1423@gmail.com
-- **Hashnode Blog**: https://codeandcuriosity.hashnode.dev/
+- **GitHub**: <https://github.com/rushiijadhav23>
+- **LinkedIn**: <https://www.linkedin.com/in/rushiijadhav23/>
+- **Email**: [rushijadhav1423@gmail.com](mailto:rushijadhav1423@gmail.com)
+- **Hashnode Blog**: <https://codeandcuriosity.hashnode.dev/>
 - **Phone**: +917721875675
 - **Location**: Mumbai, India
 
 ## Technologies & Skills
 
 ### Programming Languages
+
 - C++, Python, JavaScript, SQL
 
 ### Frameworks & Tools
+
 - React.js, Node.js, Express.js, Flask, Tailwind
 
 ### Databases
+
 - PostgreSQL, MongoDB, SQLite, Redis
 
 ### AI/ML
+
 - LangChain, scikit-learn, OpenCV, Llama, DeepSeek
 
 ### DevOps & Cloud
+
 - Docker, AWS (EC2, S3), Git, GitHub
 
 ## Key Projects
@@ -68,14 +74,14 @@ The resume includes the following sections:
 ## Customization
 
 To update this resume:
-1. Edit the relevant sections in `resume.html`
+
+1. Edit the relevant sections in `index.html`
 2. Update contact information, links, and content as needed
 3. Refresh your browser to see changes
 4. Consider adding CSS styling for enhanced formatting if desired
 
 ## Screenshot
-<img width="850" height="1087" alt="Screenshot 2026-01-30 at 19 19 47" src="https://github.com/user-attachments/assets/3594be93-e939-4187-871a-66c4a57973d1" />
----
 
-**Last Updated**: January 2026  
+![Screenshot 2026-01-30 at 19 19 47](https://github.com/user-attachments/assets/3594be93-e939-4187-871a-66c4a57973d1)\
+
 © 2026 Rushikesh Mahesh Jadhav. All rights reserved.
