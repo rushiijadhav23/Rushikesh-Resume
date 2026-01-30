@@ -34,43 +34,6 @@ The resume includes the following sections:
 2. The resume is styled with basic HTML and will display in a clean, readable format
 3. All links (GitHub, LinkedIn, Email, etc.) are clickable and will open in new tabs
 
-## Quick Links
-
-- **GitHub**: <https://github.com/rushiijadhav23>
-- **LinkedIn**: <https://www.linkedin.com/in/rushiijadhav23/>
-- **Email**: [rushijadhav1423@gmail.com](mailto:rushijadhav1423@gmail.com)
-- **Hashnode Blog**: <https://codeandcuriosity.hashnode.dev/>
-- **Phone**: +917721875675
-- **Location**: Mumbai, India
-
-## Technologies & Skills
-
-### Programming Languages
-
-- C++, Python, JavaScript, SQL
-
-### Frameworks & Tools
-
-- React.js, Node.js, Express.js, Flask, Tailwind
-
-### Databases
-
-- PostgreSQL, MongoDB, SQLite, Redis
-
-### AI/ML
-
-- LangChain, scikit-learn, OpenCV, Llama, DeepSeek
-
-### DevOps & Cloud
-
-- Docker, AWS (EC2, S3), Git, GitHub
-
-## Key Projects
-
-1. **AIQuest** - Hybrid RAG-based Q&A platform
-2. **Vilokana (Renuite)** - Missing person search system using facial recognition
-3. **Pravaah** - Cross-border route selector for logistics planning
-
 ## Customization
 
 To update this resume:
@@ -83,5 +46,3 @@ To update this resume:
 ## Screenshot
 
 ![Screenshot 2026-01-30 at 19 19 47](https://github.com/user-attachments/assets/3594be93-e939-4187-871a-66c4a57973d1)\
-
-© 2026 Rushikesh Mahesh Jadhav. All rights reserved.
