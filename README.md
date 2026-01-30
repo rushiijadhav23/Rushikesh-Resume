@@ -1,4 +1,4 @@
-# Resume - Rushikesh Mahesh Jadhav
+# Rushikesh Mahesh Jadhav
 
 A modern, structured HTML resume showcasing professional experience, education, skills, and achievements.
 
